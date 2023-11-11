@@ -1,0 +1,22 @@
+Geo_FIPS,County,Geo_QNAME,Geo_NATION,Geo_STATE,Geo_COUNTY,Primary Care Physicians (PCP),Mental Health Providers (MHP),Dentists,"Rate per 100,000 Population",SE_NV003_002,SE_NV003_003
+34001,Atlantic County,"Atlantic County, New Jersey",0,34,1,211,519,165,80.24492,188.75061,60.00742
+34003,Bergen County,"Bergen County, New Jersey",0,34,3,1110,2765,1263,119.30429,289.88728,132.41506
+34005,Burlington County,"Burlington County, New Jersey",0,34,5,377,4425,343,84.41634,953.11124,73.87958
+34007,Camden County,"Camden County, New Jersey",0,34,7,509,1890,421,100.43231,360.84472,80.37864
+34009,Cape May County,"Cape May County, New Jersey",0,34,9,51,115,56,55.7097,120.21618,58.54005
+34011,Cumberland County,"Cumberland County, New Jersey",0,34,11,62,183,100,42.17458,119.11969,65.09272
+34013,Essex County,"Essex County, New Jersey",0,34,13,673,2083,772,84.07235,243.64938,90.30116
+34015,Gloucester County,"Gloucester County, New Jersey",0,34,15,168,432,135,57.28998,141.88264,44.33832
+34017,Hudson County,"Hudson County, New Jersey",0,34,17,363,585,458,54.04472,83.27841,65.19916
+34019,Hunterdon County,"Hunterdon County, New Jersey",0,34,19,150,355,107,120.1952,273.23666,82.35584
+34021,Mercer County,"Mercer County, New Jersey",0,34,21,360,1389,319,98.0288,359.93967,82.66433
+34023,Middlesex County,"Middlesex County, New Jersey",0,34,23,804,1789,761,97.72272,207.82824,88.40541
+34025,Monmouth County,"Monmouth County, New Jersey",0,34,25,743,2022,663,120.15246,313.31641,102.73431
+34027,Morris County,"Morris County, New Jersey",0,34,27,496,1584,585,101.00043,309.99196,114.48567
+34029,Ocean County,"Ocean County, New Jersey",0,34,29,253,1182,386,41.18931,182.12691,59.4763
+34031,Passaic County,"Passaic County, New Jersey",0,34,31,290,776,367,57.95572,149.77312,70.83342
+34033,Salem County,"Salem County, New Jersey",0,34,33,19,74,20,30.42385,113.76564,30.74747
+34035,Somerset County,"Somerset County, New Jersey",0,34,35,382,1010,333,115.99272,292.20563,96.34106
+34037,Sussex County,"Sussex County, New Jersey",0,34,37,67,297,103,47.85646,204.0634,70.76946
+34039,Union County,"Union County, New Jersey",0,34,39,370,1275,499,66.61937,222.85768,87.22038
+34041,Warren County,"Warren County, New Jersey",0,34,41,63,268,81,59.64554,242.02798,73.15025
